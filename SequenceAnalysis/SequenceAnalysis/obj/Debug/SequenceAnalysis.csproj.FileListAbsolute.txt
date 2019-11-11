@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\bin\Debug\SequenceAnalysis.exe.config
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\bin\Debug\SequenceAnalysis.exe
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.exe
+C:\Users\ASUS\Desktop\TechnicalAssignment\SequenceAnalysis\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb
